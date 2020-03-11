@@ -1,0 +1,22 @@
+{
+  "name": "proton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaHolloway/electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaHolloway/electron/issues"
+  },
+  "homepage": "https://github.com/JoshuaHolloway/electron#readme",
+  "dependencies": {
+    "electron": "^8.1.1"
+  }
+}
